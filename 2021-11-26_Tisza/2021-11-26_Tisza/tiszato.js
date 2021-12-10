@@ -4,7 +4,7 @@ function turizmus(melyik){
     document.getElementById('turizmuskepkeret').style.display='block';   
 }
 
-function keprejt(melyik){
+function keprejt(){
   document.getElementById('turizmuskepkeret').style.display='none';
   document.getElementById('turizmusszovegkeret').style.display='block';    
 }
